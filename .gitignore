@@ -1,0 +1,11 @@
+rib.20191202.1400.bz2
+ipasn.dat
+
+Cdf.py
+Pmf.py
+
+*.pyc
+
+.DS_Store
+
+.ipynb_checkpoints
