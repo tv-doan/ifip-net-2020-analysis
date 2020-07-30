@@ -5,7 +5,7 @@ Technical University of Munich
 
 
 [IFIP Networking 2020](https://networking.ifip.org/2020/), June 22&ndash;25, 2020.  
-DOI: TBD
+[Link to paper (PDF)](http://dl.ifip.org/db/conf/networking/networking2020/1570619852.pdf)
 
 ---
 
